@@ -130,7 +130,5 @@ with national median context.
 
 ## Application
 
-```
 https://hospital-financial-risk-analysis-7akcrfqt5vuwusobzucabq.streamlit.app
 
-```
