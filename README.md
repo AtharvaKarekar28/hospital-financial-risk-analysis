@@ -125,3 +125,12 @@ with national median context.
 - Matplotlib, Seaborn
 - Streamlit
 - GitHub Codespaces
+
+---
+
+## Application
+
+```
+https://hospital-financial-risk-analysis-7akcrfqt5vuwusobzucabq.streamlit.app
+
+```
