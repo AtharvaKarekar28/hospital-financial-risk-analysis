@@ -34,18 +34,21 @@ This enables early identification of financially at-risk hospitals.
 ---
 
 ## Project Structure
+
+```
 hospital-financial-risk-analysis/
 ├── notebooks/
-│ ├── 01_data_loading.ipynb # Data ingestion and cleaning
-│ ├── 02_eda.ipynb # Exploratory data analysis
-│ ├── 03_feature_engineering.ipynb # Feature creation and transformation
-│ ├── 04_modeling.ipynb # Model training and evaluation
-│ └── 05_results_summary.ipynb # Full project summary
+│   ├── 01_data_loading.ipynb        # Data ingestion and cleaning
+│   ├── 02_eda.ipynb                 # Exploratory data analysis
+│   ├── 03_feature_engineering.ipynb # Feature creation and transformation
+│   ├── 04_modeling.ipynb            # Model training and evaluation
+│   └── 05_results_summary.ipynb     # Full project summary
 ├── model/
-│ └── random_forest_model.pkl # Saved trained model
-├── outputs/ # All generated visualizations
-├── app.py # Streamlit prediction app
+│   └── random_forest_model.pkl      # Saved trained model
+├── outputs/                         # All generated visualizations
+├── app.py                           # Streamlit prediction app
 └── requirements.txt
+```
 
 ---
 
